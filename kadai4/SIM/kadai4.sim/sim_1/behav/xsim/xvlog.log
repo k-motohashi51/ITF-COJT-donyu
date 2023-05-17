@@ -1,0 +1,12 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HW108.COJTHW/COJT/donyu/kadai4/hdl/fifo.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fifo
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HW108.COJTHW/COJT/donyu/kadai4/hdl/full_adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module full_adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HW108.COJTHW/COJT/donyu/kadai4/hdl/half_adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module half_adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HW108.COJTHW/COJT/donyu/kadai4/hdl/kadai4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module kadai4
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HW108.COJTHW/COJT/donyu/kadai4/hdl/mult.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mult
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HW108.COJTHW/COJT/donyu/kadai4/SIM/tb/tb_kadai4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_kadai4

@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_kadai3_behav/xsimk.exe -simmode gui -wdb tb_kadai3_behav.wdb -simrunnum 0 -socket 53903
+Design successfully loaded
+Design Loading Memory Usage: 7592 KB (Peak: 7592 KB)
+Design Loading CPU Usage: 0 ms
+Simulation completed
+Simulation Memory Usage: 8356 KB (Peak: 8356 KB)
+Simulation CPU Usage: 0 ms

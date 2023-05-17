@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../hdl/fifo.v" \
+"../../../../../../adder/full_adder.v" \
+"../../../../../../adder/half_adder.v" \
+"../../../../../hdl/kadai3.v" \
+"../../../../../hdl/mult.v" \
+"../../../../tb/tb_kadai3.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

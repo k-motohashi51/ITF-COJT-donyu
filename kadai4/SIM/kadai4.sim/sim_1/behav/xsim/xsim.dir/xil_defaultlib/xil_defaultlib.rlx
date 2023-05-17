@@ -1,0 +1,11 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/HW108.COJTHW/COJT/donyu/kadai4/SIM/kadai4.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+C:/Users/HW108.COJTHW/COJT/donyu/kadai4/SIM/tb/tb_kadai4.v,1684094196,verilog,,,,tb_kadai4,,,,,,,,
+C:/Users/HW108.COJTHW/COJT/donyu/kadai4/hdl/fifo.v,1683964295,verilog,,C:/Users/HW108.COJTHW/COJT/donyu/kadai4/hdl/full_adder.v,,fifo,,,,,,,,
+C:/Users/HW108.COJTHW/COJT/donyu/kadai4/hdl/full_adder.v,1682665338,verilog,,C:/Users/HW108.COJTHW/COJT/donyu/kadai4/hdl/half_adder.v,,full_adder,,,,,,,,
+C:/Users/HW108.COJTHW/COJT/donyu/kadai4/hdl/half_adder.v,1682665338,verilog,,C:/Users/HW108.COJTHW/COJT/donyu/kadai4/hdl/kadai4.v,,half_adder,,,,,,,,
+C:/Users/HW108.COJTHW/COJT/donyu/kadai4/hdl/kadai4.v,1684094005,verilog,,C:/Users/HW108.COJTHW/COJT/donyu/kadai4/hdl/mult.v,,kadai4,,,,,,,,
+C:/Users/HW108.COJTHW/COJT/donyu/kadai4/hdl/mult.v,1683908550,verilog,,C:/Users/HW108.COJTHW/COJT/donyu/kadai4/SIM/tb/tb_kadai4.v,,mult,,,,,,,,

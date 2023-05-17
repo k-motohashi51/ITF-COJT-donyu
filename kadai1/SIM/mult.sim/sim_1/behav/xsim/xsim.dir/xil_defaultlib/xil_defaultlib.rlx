@@ -1,0 +1,9 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/HW108.COJTHW/COJT/donyu/adder/full_adder.v,1682665338,verilog,,C:/Users/HW108.COJTHW/COJT/donyu/adder/half_adder.v,,full_adder,,,,,,,,
+C:/Users/HW108.COJTHW/COJT/donyu/adder/half_adder.v,1682665338,verilog,,C:/Users/HW108.COJTHW/COJT/donyu/kadai1/hdl/mult.v,,half_adder,,,,,,,,
+C:/Users/HW108.COJTHW/COJT/donyu/kadai1/SIM/mult.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+C:/Users/HW108.COJTHW/COJT/donyu/kadai1/SIM/tb/tb_mult.v,1682677630,verilog,,,,tb_mult,,,,,,,,
+C:/Users/HW108.COJTHW/COJT/donyu/kadai1/hdl/mult.v,1682688703,verilog,,C:/Users/HW108.COJTHW/COJT/donyu/kadai1/SIM/tb/tb_mult.v,,mult,,,,,,,,

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_mult_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_mult" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="6,551,163.333 ns"></ZoomStartTime>
+      <ZoomEndTime time="6,554,087.334 ns"></ZoomEndTime>
+      <Cursor1Time time="6,553,600.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="115"></NameColumnWidth>
+      <ValueColumnWidth column_width="59"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="7" />
+   <wvobject fp_name="/tb_mult/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_mult/A" type="array">
+      <obj_property name="ElementShortName">A[7:0]</obj_property>
+      <obj_property name="ObjectShortName">A[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_mult/B" type="array">
+      <obj_property name="ElementShortName">B[7:0]</obj_property>
+      <obj_property name="ObjectShortName">B[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_mult/i" type="array">
+      <obj_property name="ElementShortName">i[8:0]</obj_property>
+      <obj_property name="ObjectShortName">i[8:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_mult/j" type="array">
+      <obj_property name="ElementShortName">j[8:0]</obj_property>
+      <obj_property name="ObjectShortName">j[8:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_mult/X" type="array">
+      <obj_property name="ElementShortName">X[15:0]</obj_property>
+      <obj_property name="ObjectShortName">X[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_mult/CYCLE" type="array">
+      <obj_property name="ElementShortName">CYCLE[31:0]</obj_property>
+      <obj_property name="ObjectShortName">CYCLE[31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+</wave_config>
